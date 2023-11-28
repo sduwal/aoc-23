@@ -1,4 +1,6 @@
 .gradle
 .idea
+.idx
 build
 src/**/*.txt
+**/*.jar
